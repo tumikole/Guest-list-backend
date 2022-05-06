@@ -1,1 +1,1 @@
-# rsvp-backend-example
+This is an RSVP application. On the application, the user should be able to add guests to the application, the application requires to enter their names, surname, food, time and attendence. The user should be able to modify the database by delete and edit guest list
